@@ -17,7 +17,7 @@ featuredLinks:
     - /codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository
     - /codespaces/developing-in-a-codespace/creating-a-codespace-from-a-template
     - /codespaces/developing-in-a-codespace/opening-an-existing-codespace
-    - /codespaces/setting-your-user-preferences/personalizing-github-codespaces-for-your-account
+    - /codespaces/customizing-your-codespace/personalizing-github-codespaces-for-your-account
     - /codespaces/developing-in-a-codespace/using-github-codespaces-in-visual-studio-code
     - /codespaces/developing-in-a-codespace/using-github-codespaces-in-your-jetbrains-ide
   popular:
@@ -46,7 +46,6 @@ children:
   - /getting-started
   - /developing-in-a-codespace
   - /customizing-your-codespace
-  - /setting-your-user-preferences
   - /setting-up-your-project-for-codespaces
   - /prebuilding-your-codespaces
   - /managing-your-codespaces
@@ -56,3 +55,4 @@ children:
   - /the-githubdev-web-based-editor
   - /guides
 ---
+
