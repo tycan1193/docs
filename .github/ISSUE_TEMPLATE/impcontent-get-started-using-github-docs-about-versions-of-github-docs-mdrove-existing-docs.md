@@ -1,11 +1,13 @@
 ---
-name: Improve existing docs
+name: Impcontent/get-started/using-github-docs/about-versions-of-github-docs.mdrove
+  existing docs
 about: Make a suggestion to improve our existing documentation.
 title: ''
-labels:
-- content
+labels: ''
 assignees: ''
+
 ---
+
 <!--
 HUBBERS BEWARE! THE GITHUB/DOCS REPO IS PUBLIC TO THE ENTIRE INTERNET. OPEN AN ISSUE IN GITHUB/DOCS-CONTENT INSTEAD.
 -->
